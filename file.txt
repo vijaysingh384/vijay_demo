@@ -1,2 +1,2 @@
-line1 from main
-main breanch upadte
+Line A
+Line B
